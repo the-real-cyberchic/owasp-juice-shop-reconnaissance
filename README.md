@@ -29,6 +29,6 @@ A comprehensive reconnaissance and attack surface mapping assessment conducted o
 
 ---
 
-## 🚀 Author
+## Author
 **Mercy Itunuoluwa Olalere**  
-*Cybersecurity Undergraduate & Security Operations Intern*[cite: 1]
+*Cybersecurity Undergraduate & Security Operations Intern*
